@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abor46
+- 👋 Hi, I’m Abor
 - 👀 I’m interested in Digital Art and Programming
 - 🌱 I’m currently learning Programming
-- 📫 How to reach me = Discord: Abor#9048
+- 📫 How to reach me = Discord: Abor#7109
 
 <!---
 Abor46/Abor46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
