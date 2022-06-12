@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abor
 - 👀 I’m interested in Digital Art and Programming
-- 🌱 I’m currently learning Programming
 - 📫 How to reach me = Discord: Abor#7109
 
 <!---
